@@ -54,13 +54,3 @@ Our vision is to democratize access to credit by creating a transparent, blockch
 contract id: ST3VRV3DPERJQ5F5MWPSZNPARYKJD6J18CP86WQ7F.CreditScoreOracleContract
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2653479-09d5-49e3-8992-26ee266cb767" />
 
-- **Mainnet Address**: `[To be added after mainnet deployment]`
-- **Testnet Address**: `[To be added after testnet deployment]`
-- **Contract Name**: `creditscore-oracle`
-- **Network**: Stacks Blockchain
-- **Block Height**: `[To be added after deployment]`
-
-### Contract Verification
-Once deployed, you can verify the contract on:
-- Stacks Explorer: `https://explorer.stacks.co/`
-- Contract source code will be available on GitHub for transparency and community review
